@@ -1,1 +1,1 @@
-console.log(`Wait for another update...`)
+console.log(`Stop updating this game, please choose another scripts!`)
